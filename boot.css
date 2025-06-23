@@ -1,0 +1,363 @@
+ #uo{
+            height:740px ;
+            width:100%;
+            background-image: url(bg-masthead.jpg);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            opacity: 0.8;
+            margin-top:-20px;
+            
+        }
+      ul li{
+        list-style: none;
+        display: inline;
+        margin-left:20px;
+        
+      }
+
+      *{
+        margin:0px ;
+        padding: 0px;
+      }
+      ul{
+        float:right;
+        margin-right:100px;
+        margin-top:-15px;
+      }
+      ul,.head1{
+        color: rgba(255, 255, 255, 0.803);
+        cursor: pointer;
+      }
+      .head1:hover{
+        color: rgb(255, 251, 251);
+      }
+       ul li:hover{
+        color: rgb(255, 251, 251);}
+      .head1{
+        margin-left:200px;
+        padding-top:28px;
+      }
+      .inder-regular{
+        color: white;
+        margin-top:150px;
+        font-size:60px;
+      
+      }
+      hr{
+        width: 50px;
+        border-color:red ;
+        
+      }
+      #qq{
+        font-family:"Inder", sans-serif;
+        color: white;
+        opacity: 0.7;
+        margin-left:10px;
+        margin-top: 1%;
+      }
+      #wq{
+        /* border-style: ridge; */
+        /* color: white; */
+        height: 25px;
+        width: 200px;
+        border-radius:100px;
+        padding: 15px;
+        background-color: orangered;
+      }
+      #wq h3{
+        font-family:"Inder", sans-serif;
+      }
+      #wq:hover{
+        cursor: pointer;
+        background-color: rgba(213, 60, 4, 0.689);
+      }
+    .as{
+      height: 500px;
+      width: 100%;
+      background-color: rgb(232, 94, 44);
+      text-align:center;
+     
+      
+
+    }
+    .inder-regular {
+         font-family: "Inder", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        }
+      .as h2{
+      
+        margin-top:150px;
+        margin-left:39%;
+        float:left;
+        color: white;
+        opacity: 0.9;
+        font-family: "Inder", sans-serif;
+
+      }
+      .as hr{
+        width: 50px;
+        border-color:rgb(255, 255, 255) ;
+
+      }
+      .as hr{
+       margin-top:20px;
+       margin-right:48%;
+       float:right;
+
+      }
+      .as h3{
+        margin-top:30px;
+        margin-left:20%;
+        float:left;
+        font-family:"Inder", sans-serif;
+        color: white;
+        opacity: 0.7;
+      }
+       #rr{
+        height: 25px;
+        width: 200px;
+        border-radius:100px;
+        padding: 15px;
+        background-color: rgb(255, 254, 254);
+        margin-top:30px;
+        margin-left:43%;
+        float:left;
+        text-align: center;
+       }
+       #rr h3{
+        margin-top: 0%;
+        margin-left: 38px;
+
+
+       }
+       #rr:hover{
+        cursor: pointer;
+        background-color: rgba(254, 250, 248, 0.803);
+
+       }
+       #at{
+        height: 600px;
+        width: 100%;
+        text-align: center;
+        background-color:white;
+       }
+       #at h1{
+        float:left;
+        margin-top: 10%;
+        margin-left:42%;
+        font-family: "Inder", sans-serif;
+
+
+       }
+       hr{
+      width: 50px;
+      border-color:red ;
+      margin-top:20px;
+      margin-right:49%;
+       float:right;
+       
+      }
+      
+.cont1{
+       margin-top:50px;
+       margin-right: 150px;
+       float:right;
+        font-family: "Inder", sans-serif;
+}
+.cont1 h3,h4{
+  margin-top: 20px;
+
+}
+.cont1 h4{
+  opacity: 0.6;
+}
+.images{
+  font-family: "Inder", sans-serif;
+  width: 100%;
+  
+}
+.images img{
+  height:300px;
+  width: 507px;
+}
+.images div 
+  {
+  position:relative;
+  
+  }
+.images div div
+{
+  height:300px;
+  width: 507px;
+  position: absolute; 
+  bottom:5px;
+  background-color: rgb(237, 102, 52);
+  color: #e3d7d7; 
+  opacity:0;
+  font-size: 20px;
+  padding:0px;
+  text-align: center;
+
+   }
+.images div div h5{
+  float: left;
+  margin-top: 120px;
+  margin-left:200px ;
+  
+  
+}
+.images div div h3{
+  float: left;
+  margin-top: 10px;
+  margin-left:170px;
+}
+.images div:hover div {
+  opacity:0.9;
+  cursor: pointer;
+}
+.images2{
+  font-family: "Inder", sans-serif;
+  width: 100%;
+  margin-top:-5px;
+  
+}
+.images2 img{
+  height:300px;
+  width: 507px;
+}
+.images2 div  
+  {
+  position:relative;
+  
+  }
+.images2 div div
+{
+  height:300px;
+  width: 507px;
+  position: absolute; 
+  bottom:5px;
+  background-color: rgb(237, 102, 52);
+  color: #e3d7d7; 
+  opacity:0;
+  font-size: 20px;
+  padding:0px;
+  text-align: center;
+
+   }
+.images2 div div h5{
+  float: left;
+  margin-top: 120px;
+  margin-left:200px ;
+  
+  
+}
+.images2 div div h3{
+  float: left;
+  margin-top: 10px;
+  margin-left:170px;
+}
+.images2 div:hover div {
+  opacity:0.9;
+  cursor: pointer;
+}
+.ast{
+      height: 400px;
+      width: 100%;
+      background-color:rgba(39, 39, 39, 0.89);
+      text-align:center;
+      margin-top:-4px;
+     
+      
+
+    }
+    .ast h2{
+      
+        margin-top:150px;
+        margin-left:35%;
+        float:left;
+        color: white;
+        opacity: 0.9;
+        font-family: "Inder", sans-serif;
+
+      }
+      .ast h3{
+        margin-top:30px;
+        float:left;
+        font-family:"Inder", sans-serif;
+        color: white;
+        opacity: 0.7;
+      }
+ #rrr{
+        height: 25px;
+        width: 200px;
+        border-radius:100px;
+        padding: 10px;
+        background-color: rgb(255, 254, 254);
+        margin-top:30px;
+        margin-left:43%;
+        float:left;
+        text-align: center;
+       }
+       #rrr h3{
+        margin-top: 0%;
+        margin-left: 20px;
+
+
+       }
+       #rrr:hover{
+        cursor: pointer;
+        background-color: rgba(254, 250, 248, 0.803);
+      }
+      #lets{
+        margin-top:0;
+        margin-left:0;
+        width: 100%;
+        float:left;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-family:"Inder", sans-serif;
+        color: rgb(0, 0, 0);
+        opacity: 0.6;
+      }
+       #lets h1{
+        float:left;
+        margin-top: 10%;
+        margin-left:40%;
+        font-family: "Inder", sans-serif;
+       }
+       #lets h4{
+        margin-top:30px;
+        margin-left:30%;
+        float:left;
+        font-family:"Inder", sans-serif;
+        color: rgb(8, 8, 8);
+        opacity: 0.9;
+       }
+       #lets hr{
+      width: 50px;
+      border-color:red ;
+      margin-top:20px;
+      margin-right:50%;
+       float:right;
+       
+      }
+      button:hover{
+        opacity:0.8;
+        cursor: pointer;
+      }
+      button:active{
+        color: red;
+      }
+input[type="text"]:focus{
+  border-color: orangered;
+  color: red;
+  box-shadow:20px solid pink;
+}
+
+    
+    
+
+
+
+       
